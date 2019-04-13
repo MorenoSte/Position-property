@@ -3,13 +3,15 @@
     padding: 10px;
     position: static;
     margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
 }
 
 .relative-1{
     border: 1px solid blue;
     padding: 10px;
     position: 10px;
-
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
 }
 
 .relative-2{
@@ -40,4 +42,8 @@
     padding: 10px;
     position: fixed;
     width: 150px;
+    top: 0;
+    right:0;
+
 }
+
